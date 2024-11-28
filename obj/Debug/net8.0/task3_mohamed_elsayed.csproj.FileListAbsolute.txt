@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\bin\Debug\net8.0\task3_mohamed_elsayed.exe
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\bin\Debug\net8.0\task3_mohamed_elsayed.deps.json
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\bin\Debug\net8.0\task3_mohamed_elsayed.runtimeconfig.json
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\bin\Debug\net8.0\task3_mohamed_elsayed.dll
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\bin\Debug\net8.0\task3_mohamed_elsayed.pdb
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.AssemblyInfo.cs
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.dll
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\refint\task3_mohamed_elsayed.dll
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.pdb
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\task3_mohamed_elsayed.genruntimeconfig.cache
+C:\Users\Admin\source\repos\task3_mohamed_elsayed\obj\Debug\net8.0\ref\task3_mohamed_elsayed.dll
